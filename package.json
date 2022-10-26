@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md", 
+  "name": "℘athum BOT", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "℘athum Official MD-Whatsapp-BOT.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
